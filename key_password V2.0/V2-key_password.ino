@@ -29,3 +29,4 @@ void loop() {
         DigiKeyboard.delay(200);
     }
 }
+//esse codigo foi criado por guilherme magalhães.
